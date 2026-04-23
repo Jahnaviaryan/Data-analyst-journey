@@ -38,6 +38,14 @@ Next Plan
 - Explore charts and data visualization in Excel
 
 - Continue building consistency
+   
+
+
+
+Screenshot of excel work : 
+
+
+
 
 
 
